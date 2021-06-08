@@ -1,0 +1,19 @@
+.iconbtn {
+    background-color: rgb(26, 23, 23);
+    color: yellow;
+    height: 200px;
+    width: 200px;
+    font-size: 30px;
+    margin: 12px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.iconbtn:hover {
+    background-color: black;
+}
+
+#icon {
+    font-size: 50px;
+    color: wheat;
+}
