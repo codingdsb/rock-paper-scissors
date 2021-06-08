@@ -25,4 +25,4 @@ npm start # for npm users
 yarn start # for yarn users
 ```
 
-This will open up the `localhost:3000` in your default browser, but if it doesn't, click this link: <a href="http://localhost:3000" target="_blank">http://localhost:3000</a> | or open your preferred browser and enter localhost:3000
+This will open up the `localhost:3000` in your default browser, but if it doesn't, click this link: <a href="http://localhost:3000"  target="_blank">http://localhost:3000</a> | or open your preferred browser and enter localhost:3000
