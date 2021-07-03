@@ -1,6 +1,6 @@
 # Rock Paper Scissors
 
-A rock paper scissors game simulator written in React JS
+A rock paper scissors game simulator written in React JS, to play it online, go to: [https://darshan-rps.netlify.app](https://darshan-rps.netlify.app)
 
 ## Play this game on your local server/local machine: 
 1. Run the command in desired folder
